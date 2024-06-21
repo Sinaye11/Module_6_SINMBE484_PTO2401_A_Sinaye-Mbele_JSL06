@@ -27,7 +27,7 @@ function displayMenuItems(menu) {
 
           // Create an element to represent a list of items
             const itemList = document.createElement('p');
-           
+        
           // Append a list of items element to the menu container
             itemList.classList.add('items-list');
             menuContainer.appendChild(itemList);
